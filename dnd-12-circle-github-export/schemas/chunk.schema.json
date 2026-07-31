@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Knowledge chunk",
+  "type": "object",
+  "required": [
+    "chunk_id",
+    "source_type",
+    "source_id",
+    "title",
+    "text",
+    "metadata"
+  ]
+}

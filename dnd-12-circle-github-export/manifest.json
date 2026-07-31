@@ -1,0 +1,351 @@
+{
+  "project": "dnd-12-circle",
+  "created_at": "2026-07-31T22:24:00+03:00",
+  "file_count": 68,
+  "paragraph_count": 2691,
+  "chunk_count": 295,
+  "character_count": 27,
+  "conversation_count": 8,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 59,
+      "sha256": "a51044f1c6ee846a2d729b5fdbc4e7b3182077d140a6be33dd06362e144b3747"
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "bytes": 791,
+      "sha256": "1a6cec062b5de0933e36c50e9dd4fe00f4a7037ad0cf8295f46353b062c98c17"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1049,
+      "sha256": "5aed948cee4c54cc93f515fb5453f86832bb15917a3cf0cca9b1908b93af748a"
+    },
+    {
+      "path": "archive/conversation-index.json",
+      "bytes": 4663,
+      "sha256": "d494935fc9b0b0e4b94ffd80f6fabbfb4a7eb19674ba29a90b62964abbfdf25c"
+    },
+    {
+      "path": "archive/conversations/2026-07-01-location-art.md",
+      "bytes": 536,
+      "sha256": "9049d8d3c8ed36d144c97321ec9d08bda2f3991340d1ccafa1838d02a62f063f"
+    },
+    {
+      "path": "archive/conversations/2026-07-27-adventure-12-circle.md",
+      "bytes": 834,
+      "sha256": "5756b89a08bc86c75f2661a36fe8352486df202f672d7cc39d00cf006ace58c0"
+    },
+    {
+      "path": "archive/conversations/2026-07-27-council-and-azgarad.md",
+      "bytes": 670,
+      "sha256": "3056817ad31aef866b86b420fa908a299573be69004bafec93cf52d308d055a3"
+    },
+    {
+      "path": "archive/conversations/2026-07-27-seventh-string-analysis.md",
+      "bytes": 621,
+      "sha256": "30ebf295f49021192f06048498e55810ac6f253caf9e318503aaa5ffb23fce09"
+    },
+    {
+      "path": "archive/conversations/2026-07-27-shadowfell.md",
+      "bytes": 623,
+      "sha256": "86834c048419ba0fed6739092fe508f89f77f8f21c35de3ea4abe2c7b71dbc1a"
+    },
+    {
+      "path": "archive/conversations/2026-07-28-cyric-hideout.md",
+      "bytes": 546,
+      "sha256": "dea4ad1863f1f8f570dc55d0cf32c46516b199bd82c7becfc54e8253ceff4ac7"
+    },
+    {
+      "path": "archive/conversations/2026-07-28-serafina-guide.md",
+      "bytes": 594,
+      "sha256": "4016a1402fd5c36fca0ad07182365ff37d9711ffb0e4baabbcaf58826d347153"
+    },
+    {
+      "path": "archive/conversations/2026-07-31-technical-project.md",
+      "bytes": 565,
+      "sha256": "0b91e47beefef87c85c5b2a60553dc0773e089699d746126a871a56d995f5d40"
+    },
+    {
+      "path": "archive/current-accessible-context.md",
+      "bytes": 476,
+      "sha256": "8b0902bbc1d243f5c0051ee4e50284549dc88a4d26ceb1b745a168515457a62a"
+    },
+    {
+      "path": "database/artifacts.json",
+      "bytes": 2612,
+      "sha256": "cdf697a556d78536358b524b804b5d57d368bb6c5727197c5f536b138af9d6e7"
+    },
+    {
+      "path": "database/characters.json",
+      "bytes": 21532,
+      "sha256": "300ef1859b9cead172d5a61b76f92e4efa4065072369d712fd1d7a5ce0e52903"
+    },
+    {
+      "path": "database/chunks.jsonl",
+      "bytes": 706745,
+      "sha256": "839584ebe18b27863d7387833750fdd4606489ceede97816cec70bf5d4a5ba08"
+    },
+    {
+      "path": "database/conversations.jsonl",
+      "bytes": 4142,
+      "sha256": "04b0ab230433b205b3d2aa035c63661b2a830f61e8bb05b9eef597a6e835c1ff"
+    },
+    {
+      "path": "database/dnd_12_circle.sqlite",
+      "bytes": 2265088,
+      "sha256": "c5c9a33266914feb40ebd9f5a039faf94bd94fdd2f1c93eb7c44c8d944ec5418"
+    },
+    {
+      "path": "database/factions.json",
+      "bytes": 3272,
+      "sha256": "214b871ab5bcf9d796fa23013177afaace53e6b5854d0d982ce40f110263dc4c"
+    },
+    {
+      "path": "database/locations.json",
+      "bytes": 3172,
+      "sha256": "e94d78ff11e53d769246e7e54c118a3325575cd20f2b23a3c6769092c8111feb"
+    },
+    {
+      "path": "database/name-corrections.json",
+      "bytes": 1218,
+      "sha256": "8561b9420940e2696744101527392acd992adb71834f14855167b778fafd799a"
+    },
+    {
+      "path": "database/open-questions.json",
+      "bytes": 650,
+      "sha256": "378069130db2862c6f2c7974883e0cbdf33b06c96a8384ecbe215d24f6155d6f"
+    },
+    {
+      "path": "database/project.json",
+      "bytes": 928,
+      "sha256": "aee7588c5adea318439d79abfe97fb2b7e30f931d5ca5e1b95e23e02787f4ccb"
+    },
+    {
+      "path": "database/relationships.json",
+      "bytes": 4591,
+      "sha256": "2f9a10dd360e03e3692b0ac5e293298792647278cd141d6ec2b98e6e159132aa"
+    },
+    {
+      "path": "database/source_document_paragraphs.jsonl",
+      "bytes": 798202,
+      "sha256": "dc60ae7f6d9f43c5762cbd7f96e6c045e1aa0b542052ce7c39163b778fb9d9d4"
+    },
+    {
+      "path": "database/timeline.json",
+      "bytes": 1965,
+      "sha256": "d31356ad90d984223ce9a31f6a588f53c91d42704e7c1e9f16e7ef89ed080877"
+    },
+    {
+      "path": "docs/12-circle-full.md",
+      "bytes": 549416,
+      "sha256": "f845342d6400a40838e6401d8e663ad4f2ff65b986dac843cf346291b461f782"
+    },
+    {
+      "path": "knowledge/artifacts.md",
+      "bytes": 2176,
+      "sha256": "1e66c73d40cd74c74619941d820d7f59101cbbb5a48ea66b49cd74b94d6152ab"
+    },
+    {
+      "path": "knowledge/canon.md",
+      "bytes": 4048,
+      "sha256": "84c8d82963b46f2ce9c3809759f4913cd2cd34cf80fca9d03ff7443ba11c98e5"
+    },
+    {
+      "path": "knowledge/characters/alymarifa.md",
+      "bytes": 637,
+      "sha256": "ef5468b60bb59e7e00a964467e95cb94383253efa1fbbb6a6b80ff282d325956"
+    },
+    {
+      "path": "knowledge/characters/anna.md",
+      "bytes": 586,
+      "sha256": "346d0060cb7a3e98f2a0aa991cff656e35a856a8cb3d3ba49fba1a6bd5d4e81f"
+    },
+    {
+      "path": "knowledge/characters/azgarad-zianur.md",
+      "bytes": 677,
+      "sha256": "3502b21d4bdd50f0ed5cea194a19fbc2c327e367400454b1ccd7db6c88fe5ab3"
+    },
+    {
+      "path": "knowledge/characters/bakmen.md",
+      "bytes": 723,
+      "sha256": "693bebcb89cb777b22620ba10400d66a1799feedb0cccd1b44d1c2e6907e72d4"
+    },
+    {
+      "path": "knowledge/characters/druseliya.md",
+      "bytes": 646,
+      "sha256": "b365577cf9c0ccb254a66146fd9001691697b8c3caaca966f64dc90f52a69f9a"
+    },
+    {
+      "path": "knowledge/characters/esvel-bakmen.md",
+      "bytes": 790,
+      "sha256": "d96af88c6dc9af785a923a948d8ba0f49fc9770dde204fa4d114e317d260ee7b"
+    },
+    {
+      "path": "knowledge/characters/haron.md",
+      "bytes": 419,
+      "sha256": "03864bb2170cbdbc68740d0a0d1281541a9599cea6164c2e0eb6fe37cfef9c9e"
+    },
+    {
+      "path": "knowledge/characters/heyan.md",
+      "bytes": 1502,
+      "sha256": "2fc9eb4c47d1d65ab7a928abe6f34415f617d37bee11b3d061015b8955bd64bf"
+    },
+    {
+      "path": "knowledge/characters/igor-darkstoun.md",
+      "bytes": 604,
+      "sha256": "c8e3ffd945fb08853d633f86aedba5bcbcfb3d168c5efab4cda101b98e7ee8cd"
+    },
+    {
+      "path": "knowledge/characters/isandro.md",
+      "bytes": 644,
+      "sha256": "9c63e6c7ffce84058b51ee1260a6cb82fe804e51ef506117b1f8e5c33a080155"
+    },
+    {
+      "path": "knowledge/characters/katran.md",
+      "bytes": 675,
+      "sha256": "a1adf4f023308e16aa7ad00647a851ff4e6dd2f92b4b86534aec792d2c9a586b"
+    },
+    {
+      "path": "knowledge/characters/korkosh.md",
+      "bytes": 776,
+      "sha256": "4ce04fe51561976becb49be21819ae22dae2859668489c830e50d41624a3f913"
+    },
+    {
+      "path": "knowledge/characters/kruug.md",
+      "bytes": 763,
+      "sha256": "99498a6593e4735ab62c578966e121c537a7771ef1c1256172ee5786b2dc2638"
+    },
+    {
+      "path": "knowledge/characters/lander-vesomolot.md",
+      "bytes": 772,
+      "sha256": "96751882a08cebff11a00da5b0a4b6c7af10f4cf486baf18e8dc6e1f0e5c3f7d"
+    },
+    {
+      "path": "knowledge/characters/lusiya-de-alvares.md",
+      "bytes": 614,
+      "sha256": "1a698bf82911c439a4efe3f5fe102c2b9fc3eb19075794aa0a731d4b24e41501"
+    },
+    {
+      "path": "knowledge/characters/lyutsiya.md",
+      "bytes": 563,
+      "sha256": "29d4ff42f10a8375e1bf3c845da053d4df844b9cea0e7eb376c69bb3f4a63509"
+    },
+    {
+      "path": "knowledge/characters/makalay-harrou.md",
+      "bytes": 835,
+      "sha256": "7bcdc793e52169961f1893e6c33b53927d051176113ccb43ce02866889516203"
+    },
+    {
+      "path": "knowledge/characters/malkar-astaren.md",
+      "bytes": 850,
+      "sha256": "833f778da16f00ded07420df4fa15f0ce86ff7b72a35e5f5af02385a094ba442"
+    },
+    {
+      "path": "knowledge/characters/malus.md",
+      "bytes": 775,
+      "sha256": "e77ab3e7c5ff2334b89e0058493707cd0804c78e9cfbbf11fafa58cc3cef87c0"
+    },
+    {
+      "path": "knowledge/characters/markus.md",
+      "bytes": 602,
+      "sha256": "ac3eb58fd1385ebacbca2f5c273a26248b9b3b472fd727552fcc23e1d8b92f4b"
+    },
+    {
+      "path": "knowledge/characters/otto-gagens.md",
+      "bytes": 418,
+      "sha256": "7d00b5b47bf1ea9de6666595b37f3512c46166733fb8c3ae923e7844bca0657c"
+    },
+    {
+      "path": "knowledge/characters/serafina-lamandar.md",
+      "bytes": 1368,
+      "sha256": "001a91c098ca65b350d0737b730154c04afbf0b4939ed4e3baf0b8665c16ac21"
+    },
+    {
+      "path": "knowledge/characters/silvana.md",
+      "bytes": 658,
+      "sha256": "7e87928aaba0f7454edae3b13900a684fa354de52e85ba97952106421f4104bb"
+    },
+    {
+      "path": "knowledge/characters/sirena.md",
+      "bytes": 472,
+      "sha256": "6c62c460068f0c1c95d106653fe0060905999427ac7f44cd5f90210751e8d36b"
+    },
+    {
+      "path": "knowledge/characters/steyn.md",
+      "bytes": 808,
+      "sha256": "11a0f3f86289407d5a2211df1a414420db54ca36464d5307ea4f23dd30519d88"
+    },
+    {
+      "path": "knowledge/characters/viktor-darkstoun.md",
+      "bytes": 968,
+      "sha256": "28794395ed203656cf4455aa8316e35e4006a9e9edccd8e85e0ea8ebf4a7b673"
+    },
+    {
+      "path": "knowledge/characters/zhannet-zianur.md",
+      "bytes": 509,
+      "sha256": "5981deee23dd6d644d2f4759124accf6b2cb940708fa308cb51d36a422dfd89a"
+    },
+    {
+      "path": "knowledge/factions.md",
+      "bytes": 2554,
+      "sha256": "f4ad125d5535c160a10614f4b113ee9d391e725185c150838add9bb35bac5161"
+    },
+    {
+      "path": "knowledge/locations.md",
+      "bytes": 2142,
+      "sha256": "8822d390a607f3dd76ab20cc8954180da40039a93b69fe8817b7c93a0ed4a49e"
+    },
+    {
+      "path": "knowledge/name-corrections.md",
+      "bytes": 1172,
+      "sha256": "3b3381e25710288e3be64cf8d44ae60057409d94831a6c3c65b679e2db84a782"
+    },
+    {
+      "path": "knowledge/open-questions.md",
+      "bytes": 668,
+      "sha256": "66ba94cf17588360dc2092513c30eeae855f50b6633edbaca5478e875b5ba233"
+    },
+    {
+      "path": "knowledge/timeline.md",
+      "bytes": 1480,
+      "sha256": "003664bc3c304c17a1c04650c5fada3ba59cc453ecbf6cc096cf866be0b3b822"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 11332,
+      "sha256": "a568663abe337409d7afbaaca1485f544ca47bdd9680f958a9a4d11e71ed2d2e"
+    },
+    {
+      "path": "schemas/character.schema.json",
+      "bytes": 201,
+      "sha256": "a64f473a500be5ec2e009f03daec73ba158cea28ec6f3e114c0c0c9e4f530ce5"
+    },
+    {
+      "path": "schemas/chunk.schema.json",
+      "bytes": 227,
+      "sha256": "13bb01e63652a6243e506710caf66d27ae84e9e89bac4e946dfc5c799885f3ed"
+    },
+    {
+      "path": "scripts/import_chatgpt_export.py",
+      "bytes": 720,
+      "sha256": "8f981efcd6702360ef87e81d11d22e0e4c74ba5aab08cf44a8677f6a8600bd6c"
+    },
+    {
+      "path": "scripts/search.py",
+      "bytes": 515,
+      "sha256": "d8f7fd22cc125613551570984ea5fb50e554b89920eb591f33da078e48d992aa"
+    },
+    {
+      "path": "source/12-круг.docx",
+      "bytes": 256214,
+      "sha256": "fb82c0345ad0333384b017f046cb41e1358d6bb7db95488c39868ad6978d5616"
+    },
+    {
+      "path": "source/project-sharing-error.png",
+      "bytes": 24402,
+      "sha256": "455174288262274fea3a3521f422f00d0306b2c99b60a1c3580d631906c6e4c7"
+    }
+  ]
+}

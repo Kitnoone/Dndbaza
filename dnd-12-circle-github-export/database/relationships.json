@@ -1,0 +1,222 @@
+[
+  {
+    "source": "serafina-lamandar",
+    "target": "makalay-harrow",
+    "type": "одна душа / прежняя реинкарнация"
+  },
+  {
+    "source": "serafina-lamandar",
+    "target": "igor-darkstone",
+    "type": "его люди разыскивали её"
+  },
+  {
+    "source": "serafina-lamandar",
+    "target": "malkar-astaren",
+    "type": "цель охоты"
+  },
+  {
+    "source": "makalay-harrow",
+    "target": "serafina-lamandar",
+    "type": "одна душа"
+  },
+  {
+    "source": "makalay-harrow",
+    "target": "steyn",
+    "type": "ученик"
+  },
+  {
+    "source": "makalay-harrow",
+    "target": "markus",
+    "type": "товарищ детства"
+  },
+  {
+    "source": "azgarad-zianur",
+    "target": "jeannette-zianur",
+    "type": "супруг"
+  },
+  {
+    "source": "azgarad-zianur",
+    "target": "victor-darkstone",
+    "type": "политический оппонент"
+  },
+  {
+    "source": "jeannette-zianur",
+    "target": "azgarad-zianur",
+    "type": "супруга"
+  },
+  {
+    "source": "victor-darkstone",
+    "target": "igor-darkstone",
+    "type": "отец"
+  },
+  {
+    "source": "victor-darkstone",
+    "target": "azgarad-zianur",
+    "type": "политический оппонент"
+  },
+  {
+    "source": "igor-darkstone",
+    "target": "victor-darkstone",
+    "type": "сын"
+  },
+  {
+    "source": "igor-darkstone",
+    "target": "serafina-lamandar",
+    "type": "разыскивает"
+  },
+  {
+    "source": "steyn",
+    "target": "katran",
+    "type": "супруг"
+  },
+  {
+    "source": "steyn",
+    "target": "anna",
+    "type": "отец"
+  },
+  {
+    "source": "steyn",
+    "target": "makalay-harrow",
+    "type": "наставник"
+  },
+  {
+    "source": "steyn",
+    "target": "markus",
+    "type": "наставник"
+  },
+  {
+    "source": "katran",
+    "target": "steyn",
+    "type": "супруга"
+  },
+  {
+    "source": "katran",
+    "target": "anna",
+    "type": "мать"
+  },
+  {
+    "source": "anna",
+    "target": "steyn",
+    "type": "дочь"
+  },
+  {
+    "source": "anna",
+    "target": "katran",
+    "type": "дочь"
+  },
+  {
+    "source": "korkosh",
+    "target": "kruug",
+    "type": "семейная и ритуальная связь"
+  },
+  {
+    "source": "bakmen",
+    "target": "sirena",
+    "type": "учитель"
+  },
+  {
+    "source": "sirena",
+    "target": "bakmen",
+    "type": "ученица"
+  },
+  {
+    "source": "malkar-astaren",
+    "target": "heyan",
+    "type": "наниматель и манипулятор"
+  },
+  {
+    "source": "malkar-astaren",
+    "target": "serafina-lamandar",
+    "type": "охотится за носителем артефакта"
+  },
+  {
+    "source": "malus",
+    "target": "serafina-lamandar",
+    "type": "связан с похищением"
+  },
+  {
+    "source": "alymarifa",
+    "target": "serafina-lamandar",
+    "type": "ожидает доставки"
+  },
+  {
+    "source": "druselia",
+    "target": "malkar-astaren",
+    "type": "косвенная связь через тейский заговор"
+  },
+  {
+    "source": "heyan",
+    "target": "lucia-de-alvarez",
+    "type": "возлюбленная, убитая им"
+  },
+  {
+    "source": "heyan",
+    "target": "isandro",
+    "type": "отец и будущий убийца"
+  },
+  {
+    "source": "heyan",
+    "target": "malkar-astaren",
+    "type": "служит в обмен на обещание вернуть Лусию"
+  },
+  {
+    "source": "lucia-de-alvarez",
+    "target": "heyan",
+    "type": "возлюбленная"
+  },
+  {
+    "source": "lucia-de-alvarez",
+    "target": "isandro",
+    "type": "мать"
+  },
+  {
+    "source": "isandro",
+    "target": "heyan",
+    "type": "сын"
+  },
+  {
+    "source": "isandro",
+    "target": "lucia-de-alvarez",
+    "type": "сын"
+  },
+  {
+    "source": "markus",
+    "target": "steyn",
+    "type": "ученик"
+  },
+  {
+    "source": "markus",
+    "target": "makalay-harrow",
+    "type": "товарищ детства"
+  },
+  {
+    "source": "kruug",
+    "target": "sylvana",
+    "type": "враг"
+  },
+  {
+    "source": "kruug",
+    "target": "korkosh",
+    "type": "семейная связь"
+  },
+  {
+    "source": "sylvana",
+    "target": "kruug",
+    "type": "враг"
+  },
+  {
+    "source": "lander",
+    "target": "lucia-child",
+    "type": "защитник"
+  },
+  {
+    "source": "lucia-child",
+    "target": "lander",
+    "type": "подопечная"
+  },
+  {
+    "source": "esvel",
+    "target": "bakmen",
+    "type": "семейная линия"
+  }
+]
