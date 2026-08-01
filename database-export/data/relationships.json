@@ -1,0 +1,128 @@
+[
+  {
+    "source": "heyan-blade",
+    "relation": "father_of",
+    "target": "isandra",
+    "note": "Хеян намерен вырастить сына сильным, затем убить и забрать силу родовой метки."
+  },
+  {
+    "source": "lucia-de-alvarez",
+    "relation": "mother_of",
+    "target": "isandra",
+    "note": "Люсия погибла по приказу Фиарланов."
+  },
+  {
+    "source": "heyan-blade",
+    "relation": "killed",
+    "target": "lucia-de-alvarez",
+    "note": "Убийство выполнено по приказу рода."
+  },
+  {
+    "source": "heyan-blade",
+    "relation": "works_with",
+    "target": "malkar-astaren",
+    "note": "Сотрудничество слабоуправляемое и ситуативное."
+  },
+  {
+    "source": "heyan-blade",
+    "relation": "member_or_agent_of",
+    "target": "house-phiarlan",
+    "note": "Боковая ветвь рода."
+  },
+  {
+    "source": "serafina-lamandar",
+    "relation": "contains",
+    "target": "seventh-string",
+    "note": "Артефакт удерживается её душой."
+  },
+  {
+    "source": "macalay",
+    "relation": "previous_incarnation_of",
+    "target": "serafina-lamandar",
+    "note": "Одна душа в последовательных воплощениях."
+  },
+  {
+    "source": "backman",
+    "relation": "father_of",
+    "target": "esvel",
+    "note": "Родственная связь."
+  },
+  {
+    "source": "backman",
+    "relation": "mentor_of",
+    "target": "sirena",
+    "note": "Сирена была его ученицей."
+  },
+  {
+    "source": "sirena",
+    "relation": "serves",
+    "target": "shar-cult",
+    "note": "Основная религиозная принадлежность."
+  },
+  {
+    "source": "malus",
+    "relation": "serves",
+    "target": "cyric-cult",
+    "note": "По поручению Цирика похитил Седьмую струну."
+  },
+  {
+    "source": "malkar-astaren",
+    "relation": "member_of",
+    "target": "red-wizards-thay",
+    "note": "Тэянский некромант."
+  },
+  {
+    "source": "azgarad-zianur",
+    "relation": "member_of",
+    "target": "wise-council-darkstone",
+    "note": "Член Совета Мудрых."
+  },
+  {
+    "source": "azgarad-zianur",
+    "relation": "spouse_of",
+    "target": "jeannette-zianur",
+    "note": "Супруги."
+  },
+  {
+    "source": "igor-darkstone",
+    "relation": "son_of",
+    "target": "victor-darkstone",
+    "note": "Конфликт отца и сына связан с магией и воспитанием."
+  },
+  {
+    "source": "crow",
+    "relation": "accused_of_killing",
+    "target": "ayuna",
+    "note": "Официальное обвинение оспаривается Алибoй."
+  },
+  {
+    "source": "henry-elkarat",
+    "relation": "investigates_death_of",
+    "target": "ayuna",
+    "note": "Ведёт дело в Даркстоуне."
+  },
+  {
+    "source": "harrow",
+    "relation": "student_of",
+    "target": "stein",
+    "note": "Учился у Стейна в детстве вместе с Маркусом."
+  },
+  {
+    "source": "captain-marcus",
+    "relation": "student_of",
+    "target": "stein",
+    "note": "Учился у Стейна в детстве вместе с Харроу."
+  },
+  {
+    "source": "maka-alai",
+    "relation": "loved",
+    "target": "kruug",
+    "note": "Была возлюбленной Крууга."
+  },
+  {
+    "source": "korok-kosh",
+    "relation": "student_of",
+    "target": "kruug",
+    "note": "Друидическая линия наставничества."
+  }
+]
