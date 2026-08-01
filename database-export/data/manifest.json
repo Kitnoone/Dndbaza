@@ -1,0 +1,46 @@
+{
+  "format_version": 1,
+  "generated_at": "2026-08-01T21:46:22.214376+00:00",
+  "source": {
+    "id": "source-docx-12-circle",
+    "title": "12 круг — исправлено",
+    "path": "sources/12-круг-исправлено.docx",
+    "text_path": "sources/12-circle.txt",
+    "sha256": "fb82c0345ad0333384b017f046cb41e1358d6bb7db95488c39868ad6978d5616",
+    "word_count": 48100,
+    "paragraph_count": 2691,
+    "rendered_page_count": 122
+  },
+  "counts": {
+    "chunks": 294,
+    "core_characters": 27,
+    "supplemental_characters": 14,
+    "artifacts": 3,
+    "locations": 10,
+    "factions": 9,
+    "entities_total": 63,
+    "relationships": 21,
+    "timeline_events": 9,
+    "canon_facts": 10,
+    "conversation_summaries": 7
+  },
+  "validation": {
+    "integrity": "ok",
+    "chunks": 294,
+    "entities": 63,
+    "fts_serafina_hits": 32
+  },
+  "scope": {
+    "included": [
+      "полный текст приложенного DOCX",
+      "структурированный сохранённый контекст проекта",
+      "доступные резюме тематических обсуждений",
+      "поисковая SQLite-база",
+      "JSON/JSONL"
+    ],
+    "not_included": [
+      "дословный архив всех сообщений ChatGPT, отсутствующий в текущем контексте",
+      "изображения и иные файлы, не приложенные к этой выгрузке"
+    ]
+  }
+}
